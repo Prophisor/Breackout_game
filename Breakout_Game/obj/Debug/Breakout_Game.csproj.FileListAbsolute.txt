@@ -1,0 +1,10 @@
+E:\Entwicklung\C#-Programme\Breakout_Game\Breakout_Game\bin\Debug\Breakout_Game.exe.config
+E:\Entwicklung\C#-Programme\Breakout_Game\Breakout_Game\bin\Debug\Breakout_Game.exe
+E:\Entwicklung\C#-Programme\Breakout_Game\Breakout_Game\bin\Debug\Breakout_Game.pdb
+E:\Entwicklung\C#-Programme\Breakout_Game\Breakout_Game\obj\Debug\Breakout_Game.csproj.AssemblyReference.cache
+E:\Entwicklung\C#-Programme\Breakout_Game\Breakout_Game\obj\Debug\Breakout_Game.FormBreakout.resources
+E:\Entwicklung\C#-Programme\Breakout_Game\Breakout_Game\obj\Debug\Breakout_Game.Properties.Resources.resources
+E:\Entwicklung\C#-Programme\Breakout_Game\Breakout_Game\obj\Debug\Breakout_Game.csproj.GenerateResource.cache
+E:\Entwicklung\C#-Programme\Breakout_Game\Breakout_Game\obj\Debug\Breakout_Game.csproj.CoreCompileInputs.cache
+E:\Entwicklung\C#-Programme\Breakout_Game\Breakout_Game\obj\Debug\Breakout_Game.exe
+E:\Entwicklung\C#-Programme\Breakout_Game\Breakout_Game\obj\Debug\Breakout_Game.pdb
